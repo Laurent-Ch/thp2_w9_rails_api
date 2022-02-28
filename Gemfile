@@ -46,3 +46,15 @@ group :development do
   # gem "spring"
 end
 
+# Added bundler_gem_version
+gem "table_print"
+gem "faker"
+# gem "rspec"
+gem "devise"
+# gem "rubocop"
+# gem "rubocop-rails"
+# gem "dotenv"
+# gem "better_errors"
+# gem "letter_opener"
+# Used to solve seed bug. Source: https://stackoverflow.com/questions/67773514/getting-warning-already-initialized-constant-on-assets-precompile-at-the-time
+# gem "net-http"
